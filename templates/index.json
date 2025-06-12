@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "rich-text": {
@@ -6,13 +15,20 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Browse our latest products",
+            "heading": "Marcloyd Mirador",
             "heading_size": "h1"
+          }
+        },
+        "text_Cd4YNN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Shopify Developer</p>"
           }
         }
       },
       "block_order": [
-        "heading"
+        "heading",
+        "text_Cd4YNN"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -29,18 +45,18 @@
         "slide-0": {
           "type": "slide",
           "settings": {
+            "image_overlay_opacity": 0,
             "heading": "",
             "heading_size": "medium",
             "subheading": "",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "middle-center",
             "show_text_box": false,
+            "box_align": "middle-center",
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-1"
           }
         }
       },
@@ -84,18 +100,18 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
+        "collection": "all",
+        "products_to_show": 3,
         "title": "",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "all",
-        "products_to_show": 3,
         "columns_desktop": 3,
+        "enable_desktop_slider": false,
         "full_width": false,
         "show_view_all": false,
         "view_all_style": "solid",
-        "enable_desktop_slider": false,
         "color_scheme": "scheme-1",
         "image_ratio": "portrait",
         "image_shape": "default",
@@ -127,13 +143,13 @@
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "mobile_content_alignment": "left",
         "section_color_scheme": "scheme-1",
         "color_scheme": "scheme-3",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 0
       }
@@ -165,13 +181,13 @@
         "height": "adapt",
         "desktop_image_width": "large",
         "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "mobile_content_alignment": "left",
         "section_color_scheme": "scheme-1",
         "color_scheme": "scheme-3",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 56
       }
